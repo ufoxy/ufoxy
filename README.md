@@ -4,12 +4,19 @@
 
 ##
 
+  
+- 🔭 I’m currently working on <a href="https://github.com/ufoxy/checkout-page" target="_blank">checkout-page</a> 
+  
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **arthurbryansk@gmail.com**
+
 <br>
 
 <div align="left">
   <a href="https://github.com/ufoxy">
-  <img height="168em" align="center" src="https://github-readme-stats.vercel.app/api?username=ufoxy&theme=codeSTACKr&border_color=2D3638"/>
-  <img height="168em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufoxy&layout=demo&theme=codeSTACKr&border_color=2D3638"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ufoxy&theme=codeSTACKr&border_color=2D3638"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufoxy&layout=demo&theme=codeSTACKr&border_color=2D3638"/>
 </div>
 
 <br>
