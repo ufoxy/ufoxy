@@ -14,8 +14,8 @@
 
 <div align="left">
   <a href="https://github.com/ufoxy">
-  <img height="210em" align="center" src="https://github-readme-stats.vercel.app/api?username=ufoxy&theme=codeSTACKr&border_color=2D3638"/>
-  <img height="210em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufoxy&layout=demo&theme=codeSTACKr&border_color=2D3638"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=ufoxy&theme=codeSTACKr&border_color=2D3638"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufoxy&layout=demo&theme=codeSTACKr&border_color=2D3638"/>
 </div>
 
 <br>
