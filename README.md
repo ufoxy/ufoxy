@@ -2,6 +2,10 @@
 ### Hi 👋, I'm Arthur Bryan <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/898301069363400727/974017030590169198/ufoxy.png?width=676&height=676">
 #### A passionate frontend developer from Brazil :octocat: :basecamp:
 
+<p align = 'left'>
+  <img align="left" alt="visitors" src="https://gpvc.arturio.dev/ufoxy" /> 
+</p>
+
 ##
 
 - 🔭 I’m currently working on <a href="https://github.com/ufoxy/checkout-page" target="_blank">checkout-page</a> 
