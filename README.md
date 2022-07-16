@@ -3,7 +3,7 @@
 # 💫 Welcome to my GitHub Profile! <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/990708984212246529/997882504004522044/unknown.png?width=200&height=200">
 #### Hi 👋, I'm Arthur Bryan
 
-Passionate about development and strong creative mindset of success and strong desire to grow.<br/>
+Passionate about development and an insatiable desire to learn.<br/>
 
 🔭 I’m currently working on my project: hdph-frequency-test<br>👯 I’m looking to collaborate on open source projects and volunteer work<br>🌱 I’m currently learning GraphQL<br/>
 
