@@ -10,7 +10,7 @@ Passionate about development and an insatiable desire to learn.<br/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurbryan)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tstuuxsi)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](arthurbryansk@gmail.com)<br/>
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthurbryansk@gmail.com)<br/>
 
 ...
 
