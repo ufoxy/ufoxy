@@ -14,6 +14,6 @@ Passionate about development and an insatiable desire to learn.<br/>
 
 ...
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
