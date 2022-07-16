@@ -14,8 +14,6 @@ Passionate about development and strong creative mindset of success and strong d
 
 ...
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></img>
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
