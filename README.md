@@ -1,8 +1,7 @@
 ###
 
-# 💫 Welcome to my GitHub Profile!
-
-### Hi 👋, I'm Arthur Bryan
+# 💫 Welcome to my GitHub Profile! <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/990708984212246529/997882504004522044/unknown.png?width=200&height=200">
+#### Hi 👋, I'm Arthur Bryan
 
 Passionate about development and strong creative mindset of success and strong desire to grow.<br/>
 
