@@ -5,7 +5,7 @@
 
 Passionate about development and an insatiable desire to learn.<br/>
 
-🔭 I’m currently working on my project: hdph-frequency-test<br>👯 I’m looking to collaborate on open source projects and volunteer work<br>🌱 I’m currently learning GraphQL<br/>
+🔭 I’m currently working on my project: visualizer<br>👯 I’m looking to collaborate on open source projects and volunteer work<br>🌱 I’m currently learning GraphQL<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurbryan)
