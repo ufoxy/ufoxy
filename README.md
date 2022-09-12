@@ -1,10 +1,9 @@
 ###
 
-# 💫 Welcome to my GitHub Profile! <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/990708984212246529/997882504004522044/unknown.png?width=200&height=200">
+# 💫 Welcome to my GitHub Profile! <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/990708984212246529/1018984805964198050/rimuru.gif">
 #### Hi 👋, I'm Arthur Bryan
 
 Passionate about development and an insatiable desire to learn.<br/>
-
 🔭 I’m currently working on my project: visualizer<br>👯 I’m looking to collaborate on open source projects and volunteer work<br>🌱 I’m currently learning GraphQL<br/>
 
 ## 🌐 Socials:
