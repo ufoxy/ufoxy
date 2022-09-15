@@ -1,6 +1,6 @@
 ###
 
-# 💫 Welcome to my GitHub Profile! <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/990708984212246529/1020057438877134888/pfp_dino.png?width=633&height=588">
+# 💫 Welcome to my GitHub Profile! <img align="right" alt="ufoxy" height="150" style="border-radius:80px;" src="https://media.discordapp.net/attachments/990708984212246529/997882504004522044/unknown.png">
 #### Hi 👋, I'm Arthur Bryan
 
 Passionate about development and an insatiable desire to learn.<br/>
