@@ -1,15 +1,15 @@
-###
+# Hi, I'm Arthur Bryan! 💫
 
-# 💫 Welcome to my GitHub Profile! <img align="right" alt="ufoxy" height="150" style="border-radius:0px;" src="https://media.discordapp.net/attachments/990708984212246529/1020060734291464293/meme_icon.png">
-#### Hi 👋, I'm Arthur Bryan.
-Passionate about development and an insatiable desire to learn.<br/>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ufoxy)](https://github.com/ufoxy)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurbryan/)](https://www.linkedin.com/in/arthurbryan/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)]()
+[![Gmail Badge](https://img.shields.io/badge/-Email-ff0000?style=flat-square&labelColor=ff0000&logo=gmail&logoColor=white&link=mailto:arthurbryansk@gmail.com)](mailto:arthurbryansk@gmail.com)
 
-🔭 I’m currently working on my project: Visualizer<br>👯 I’m looking to collaborate on open source projects and volunteer work<br>🌱 I’m currently learning JWT and Authentication<br/>
+### About me
+I'm a student passionate about development and with an insatiable desire to learn.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurbryan)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthurbryansk@gmail.com)<br/>
+- [Courses](https://cursos.alura.com.br/user/arthurbryansk/fullCertificate/e36d14aa16871850146e19d0a2ea8036) 👨🏼‍🏫 - It's are technical courses on many technologies, such as JavaScript, TypeScript, React, Next.js, Node.js and more.
+- [Project](https://rick-and-morty-ufoxy.vercel.app/) 💻 - My recent project I developed.
 
 ...
 
