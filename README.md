@@ -9,7 +9,7 @@
 I'm a student passionate about development and with an insatiable desire to learn.
 
 - [Courses](https://cursos.alura.com.br/user/arthurbryansk/fullCertificate/e36d14aa16871850146e19d0a2ea8036) 👨🏼‍🏫 - It's are technical courses on many technologies, such as JavaScript, TypeScript, React, Next.js, Node.js and more.
-- [Project](https://rick-and-morty-ufoxy.vercel.app/) 💻 - My recent project I developed.
+- [Project](https://rick-and-morty-ufoxy.vercel.app/) 💻 - My recent developed project.
 
 ...
 
