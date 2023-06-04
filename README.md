@@ -13,6 +13,6 @@ I'm a student passionate about development and with an insatiable desire to lear
 
 ...
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
