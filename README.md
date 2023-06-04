@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-ff0000?style=flat-square&labelColor=ff0000&logo=gmail&logoColor=white&link=mailto:arthurbryansk@gmail.com)](mailto:arthurbryansk@gmail.com)
 
 ### About me
-I'm a student passionate about development and with an insatiable desire to learn.
+I'm a developer and technology enthusiast who is passionate about creating programming solutions. For the past 1 year and 6 months, I have been fully immersed in the world of coding, constantly honing my skills and expanding my knowledge.
 
 - [Courses](https://cursos.alura.com.br/user/arthurbryansk/fullCertificate/e36d14aa16871850146e19d0a2ea8036) 👨🏼‍🏫 - It's are technical courses on many technologies, such as JavaScript, TypeScript, React, Next.js, Node.js and more.
 - [Project](https://visualizer-ufoxy.vercel.app/) 💻 - My recent developed project.
