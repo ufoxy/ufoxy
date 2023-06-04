@@ -8,6 +8,8 @@
 ### About me
 I'm a developer and technology enthusiast who is passionate about creating programming solutions. For the past 1 year and 6 months, I have been fully immersed in the world of coding, constantly honing my skills and expanding my knowledge.
 
+As an avid learner, I am constantly exploring new technologies, frameworks, and best practices to stay at the forefront of the ever-evolving programming landscape. I believe in the power of collaboration and enjoy working with like-minded individuals to tackle challenges and build remarkable projects.
+
 - [Courses](https://cursos.alura.com.br/user/arthurbryansk/fullCertificate/e36d14aa16871850146e19d0a2ea8036) 👨🏼‍🏫 - It's are technical courses on many technologies, such as JavaScript, TypeScript, React, Next.js, Node.js and more.
 - [Project](https://visualizer-ufoxy.vercel.app/) 💻 - My recent developed project.
 
