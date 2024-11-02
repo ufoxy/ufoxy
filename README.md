@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-ff0000?style=flat-square&labelColor=ff0000&logo=gmail&logoColor=white&link=mailto:arthurbryansk@gmail.com)](mailto:arthurbryansk@gmail.com)
 
 ### About me
-I'm a developer and technology enthusiast who is passionate about creating programming solutions. For the past 1 year and 6 months, I have been fully immersed in the world of coding, constantly honing my skills and expanding my knowledge.
+I'm a developer and technology enthusiast who is passionate about creating programming solutions. Over the last few years, I've been totally immersed in the world of coding, constantly improving my skills and expanding my knowledge.
 
 As an avid learner, I am constantly exploring new technologies, frameworks, and best practices to stay at the forefront of the ever-evolving programming landscape.
 
