@@ -15,6 +15,9 @@ As an avid learner, I am constantly exploring new technologies, frameworks, and 
 
 ...
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufoxy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="stats graph"  />
+</div>
 
 ---
